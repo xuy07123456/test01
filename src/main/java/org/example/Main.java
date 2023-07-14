@@ -90,6 +90,7 @@ public class Main {
         System.out.println("helloGit");
         System.out.println("helloGitFix");
         System.out.println("masterCommit");
+        System.out.println("helloGitFix2");
     }
 
 }
